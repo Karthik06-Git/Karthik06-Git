@@ -44,6 +44,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/vector-logo/528369/langchain" alt="LangChain" width="40" height="40" style="margin-right: 10px;"/></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/huggingface/brand-assets/hf-logo.svg" alt="HuggingFace" width="40" height="40"/></a>
+<a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://logo.svgcdn.com/l/langchain.svg" alt="LangChain" width="40" height="40" style="margin-right: 10px;" /> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" width="40" height="40" /> </a>
 </p>
